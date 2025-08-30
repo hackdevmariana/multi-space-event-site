@@ -15,6 +15,7 @@
     "@fullcalendar/daygrid": "^6.1.19",
     "@fullcalendar/vue3": "^6.1.19",
     "@headlessui/vue": "^1.7.23",
+    "@mdi/font": "^7.4.47",
     "@nuxt/content": "^3.6.3",
     "@nuxt/eslint": "^1.9.0",
     "@nuxt/image": "^1.11.0",
@@ -25,14 +26,15 @@
     "@sidebase/nuxt-auth": "^1.0.2",
     "@vite-pwa/nuxt": "^1.0.4",
     "@vueuse/core": "^13.8.0",
+    "@vueuse/nuxt": "^13.8.0",
     "apexcharts": "^5.3.4",
-    "autoprefixer": "^10.4.21",
     "better-sqlite3": "^12.2.0",
     "eslint": "^9.34.0",
     "leaflet": "^1.9.4",
     "maplibre-gl": "^5.7.0",
     "meilisearch": "^0.52.0",
     "nuxt": "^4.0.3",
+    "sass": "^1.91.0",
     "sharp": "^0.34.3",
     "swiper": "^11.2.10",
     "vee-validate": "^4.15.1",
@@ -46,6 +48,9 @@
     "yup": "^1.7.0"
   },
   "devDependencies": {
-    "@nuxt/icon": "^2.0.0"
+    "@nuxt/icon": "^2.0.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
   }
 }
