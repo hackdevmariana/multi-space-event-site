@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@auth/core": "^0.40.0",
+    "@fullcalendar/core": "^6.1.19",
+    "@fullcalendar/daygrid": "^6.1.19",
+    "@fullcalendar/vue3": "^6.1.19",
     "@headlessui/vue": "^1.7.23",
     "@nuxt/content": "^3.6.3",
     "@nuxt/eslint": "^1.9.0",
